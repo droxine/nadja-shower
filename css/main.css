@@ -1,0 +1,94 @@
+body {
+  font-family: "Dosis", "Times New Roman", Times, serif;
+  font-size: 2em;
+}
+
+.anchor {
+  display: block;
+  height: 63px;
+  /* this is the height of your header */
+  margin-top: -63px;
+  /* this is again negative value of the height of your header */
+  visibility: hidden;
+}
+
+header {
+  z-index: 1000;
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+header .navigation {
+  background-color: #F487B1;
+  height: 7rem;
+}
+header .navigation .brand {
+  margin-top: 0.1em;
+  font-weight: bold;
+  color: white !important;
+  font-size: 2.5em;
+  height: 7rem;
+}
+header .navigation .tabs {
+  float: right;
+}
+
+.presentation {
+  margin-top: 1em;
+  width: 100%;
+  height: 80rem;
+  background-color: lightsteelblue;
+  padding: 4em;
+}
+.presentation #name {
+  font-family: "Great Vibes", "Dosis", "Times New Roman", Times, serif;
+  font-weight: bold;
+  font-size: 650%;
+}
+.presentation .manualItalic {
+  font-style: italic;
+}
+.presentation .tec {
+  padding: 0.5em;
+}
+.presentation .tec #tec-list {
+  margin-top: 0.8em;
+}
+.presentation .tec #tec-list-back {
+  margin-top: 0.8em;
+}
+.presentation img {
+  border-radius: 15px;
+  width: 60%;
+}
+
+ins {
+  text-decoration: none;
+  border-bottom: 5px solid yellow !important;
+}
+
+.container {
+  width: 100%;
+  margin-top: 1.2em;
+}
+.container .row .row img {
+  width: 90% !important;
+  height: 100% !important;
+  margin: 0.5em;
+}
+.container .hora {
+  font-size: 5em;
+  padding: 0.5em;
+  text-align: center;
+}
+.container .footer-baby {
+  float: right;
+  width: 15%;
+}
+
+footer .container {
+  padding: 2em;
+  color: white;
+}
+
+/*# sourceMappingURL=css/main.css.map */
