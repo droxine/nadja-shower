@@ -76,6 +76,10 @@ ins {
   height: 100% !important;
   margin: 0.5em;
 }
+.container .row .row li.list-group-item.active {
+  background-color: #F487B1 !important;
+  border-color: lightgrey;
+}
 .container .hora {
   font-size: 5em;
   padding: 0.5em;

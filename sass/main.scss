@@ -96,6 +96,11 @@ ins {
             height: 100% !important;
             margin: 0.5em;
         }
+
+        li.list-group-item.active {
+             background-color: $mainColor !important;
+             border-color: lightgrey;
+        }
     }
 
     .hora {
