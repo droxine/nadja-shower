@@ -77,7 +77,7 @@ ins {
   margin: 0.5em;
 }
 .container .row .row li.list-group-item.active {
-  background-color: #F487B1 !important;
+  background-color: #474c53 !important;
   border-color: lightgrey;
 }
 .container .hora {
