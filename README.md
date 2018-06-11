@@ -21,4 +21,4 @@ RSVP Website Designed for the Baby Shower of my daughter: **Nadja** Marcelo Ange
 - index.html
 - README.MD
 
-I've enjoyed so much doing it. You can download it and use the website for your daughter/son, doing your customized modifications.
+I've enjoyed so much doing it. You can download it and use the website for your daughter/son, making your customized modifications.
