@@ -1,5 +1,5 @@
 # nadja-shower
-RSVP Website Designed for the Baby Shower of my daughter: **Nadja** Marcelo Angeles.
+RSVP Responsive Website Designed for the Baby Shower of my daughter: **Nadja** Marcelo Angeles.
 
 <center><img src="img\webpage-screenshot.png" alt="Website screenshot">
 
