@@ -16,8 +16,8 @@ $(window).scroll(function () {
     $('.container.text-justify').each(function (i) {
         if ($(this).position().top <= scrollDistance + 100) {
             console.log("scrollDistance");
-            $('li').removeClass('active');
-            $('li').eq(i).addClass('active');
+            $('.tabs li').removeClass('active');
+            $('.tabs li').eq(i).addClass('active');
         }
     });
 }).scroll();

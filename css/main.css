@@ -32,6 +32,9 @@ header .navigation .brand {
 header .navigation .tabs {
   float: right;
 }
+header .navigation .tabs li a:hover {
+  background-color: aliceblue !important;
+}
 
 .presentation {
   margin-top: 1em;

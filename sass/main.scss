@@ -40,6 +40,10 @@ header {
         
         .tabs {
             float: right;
+
+            li a:hover {
+                background-color: aliceblue !important;
+            }
         }
     }
 }
