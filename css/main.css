@@ -2,6 +2,30 @@ body {
   font-family: "Dosis", "Times New Roman", Times, serif;
   font-size: 2em;
 }
+@media only screen and (min-width: 80px) and (max-width: 768px) {
+  body .presentation {
+    padding: 1em;
+  }
+  body .presentation #name {
+    font-size: 350%;
+  }
+}
+@media only screen and (min-width: 150px) and (max-width: 768px) {
+  body .presentation {
+    padding: 1em;
+  }
+  body .presentation #name {
+    font-size: 450%;
+  }
+}
+@media only screen and (min-width: 450px) and (max-width: 768px) {
+  body .presentation {
+    padding: 1em;
+  }
+  body .presentation #name {
+    font-size: 590%;
+  }
+}
 
 .anchor {
   display: block;
@@ -17,6 +41,11 @@ header {
   position: fixed;
   width: 100%;
   top: 0;
+}
+@media only screen and (min-width: 80px) and (max-width: 768px) {
+  header nav ul {
+    display: none;
+  }
 }
 header .navigation {
   background-color: #F487B1;

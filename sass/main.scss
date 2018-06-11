@@ -9,6 +9,37 @@ $nameFont: 'Great Vibes', 'Dosis', 'Times New Roman', Times, serif;
 body {
     font-family: $mainFont;
     font-size: 2em;
+
+    @media only screen and (min-width: 80px) and (max-width: 768px) {
+        .presentation {
+            padding: 1em;
+
+            #name {
+                font-size: 350%;
+            }
+        }
+    }
+
+    @media only screen and (min-width: 150px) and (max-width: 768px) {
+        .presentation {
+            padding: 1em;
+
+            #name {
+                font-size: 450%;
+            }
+        }
+    }
+
+    @media only screen and (min-width: 450px) and (max-width: 768px) {
+        .presentation {
+            padding: 1em;
+
+            #name {
+                font-size: 590%;
+            }
+        }
+    }
+    
 }
 
 .anchor{
@@ -24,6 +55,12 @@ header {
     width: 100%;
     top: 0;
     //margin-bottom: 1em;
+
+    @media only screen and (min-width: 80px) and (max-width: 768px) {
+        nav ul {
+            display: none;
+        }
+    }
 
     .navigation {
         background-color: $mainColor;
