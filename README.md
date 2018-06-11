@@ -1,2 +1,24 @@
 # nadja-shower
-RSVP Website Designed for the Baby Shower of my daughter: Nadja Marcelo Angeles.
+RSVP Website Designed for the Baby Shower of my daughter: **Nadja** Marcelo Angeles.
+
+![Website screenshot](img\webpage-screenshot.png)
+
+[Nadja-shower](https://droxine.github.io/nadja-shower/ "Hosted with GitHub Pages")
+
+## Structure
+- css
+    - main.css
+    - main.css.map
+- img
+    - baby-girl-drinking.png
+    - baby-girl.png
+    - calendar.png
+    - webpage-screenshot.png
+- javascript
+    - main.js
+- sass
+    - main.scss
+- index.html
+- README.MD
+
+I've enjoyed so much doing it. You can download it and use the website for your daughter/son, doing your customized modifications.
