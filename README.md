@@ -1,9 +1,9 @@
 # nadja-shower
 RSVP Website Designed for the Baby Shower of my daughter: **Nadja** Marcelo Angeles.
 
-![Website screenshot](img\webpage-screenshot.png)
+<center><img src="img\webpage-screenshot.png" alt="Website screenshot">
 
-[Nadja-shower](https://droxine.github.io/nadja-shower/ "Hosted with GitHub Pages")
+[Nadja-shower](https://droxine.github.io/nadja-shower/ "Hosted with GitHub Pages")</center>
 
 ## Structure
 - css
