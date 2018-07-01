@@ -13,6 +13,8 @@ RSVP Responsive Website Designed for the Baby Shower of my daughter: **Nadja** M
     - baby-girl-drinking.png
     - baby-girl.png
     - calendar.png
+    - local.jpg
+    - virtual-invitation.png 
     - webpage-screenshot.png
 - javascript
     - main.js
